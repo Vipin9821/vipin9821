@@ -16,7 +16,7 @@
 
 
 # 📊 GitHub Stats:
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 ![](https://github-readme-stats.vercel.app/api?username=vipin9821&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vipin9821&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipin9821&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
