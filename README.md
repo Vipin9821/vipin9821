@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on WinForm Application<br>🌱 I’m currently learning **Vue.js**<br>💬 Ask me about Tech<br>⚡  How to reach me **vipin0909@icloud.com**
+🔭 I’m currently working on Personal Project<br>🌱 I’m currently learning **Asp.Net**<br>💬 Ask me about Tech<br>⚡  How to reach me **vipin0909@icloud.com**
 
 
 ## 🌐 Socials:
